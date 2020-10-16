@@ -13,7 +13,9 @@ es el primer ejercicio de práctica de este repositorio
 5. Haz un commit con este cambio.
     - git commit -m "Irun añadido a cuidades.txt"
 6. Añade “Donosti” al fichero ciudades.txt
+    - Echo Donosti >> cuidades.txt
 7. Haz otro commit con estos cambios.
+    -git commit -m "Donosti añadido"
 8. Envía todos estos cambios a GitHub y comprueba que se han cambiado
 correctamente.
 9. Añade “Renteria” al fichero de ciudades.txt
