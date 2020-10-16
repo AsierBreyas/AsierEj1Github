@@ -4,9 +4,14 @@ De manera individual
     - mkdir AsierEj1GitHub
 2. Añade un README.md al repositorio con una pequeña descripción diciendo que este
 es el primer ejercicio de práctica de este repositorio
+    - echo "# Este es el mensaje predefinido que tengo que poner, por favor sacame de venezuela"> Leeme.md
 3. Descarga el repositorio de Github
+    - git remote add origin https://github.com/AsierBreyas/AsierEj1Github.git
+    - git push -u origin master
 4. Añade un fichero ciudades.txt que incluya “Irun” como texto.
+    - echo "Irun" > cuidades.txt
 5. Haz un commit con este cambio.
+    - git commit -m "Irun añadido a cuidades.txt"
 6. Añade “Donosti” al fichero ciudades.txt
 7. Haz otro commit con estos cambios.
 8. Envía todos estos cambios a GitHub y comprueba que se han cambiado
