@@ -18,6 +18,7 @@ es el primer ejercicio de práctica de este repositorio
     -git commit -m "Donosti añadido"
 8. Envía todos estos cambios a GitHub y comprueba que se han cambiado
 correctamente.
+    -git push
 9. Añade “Renteria” al fichero de ciudades.txt
 10. Haz un commit con este cambio.
 11. Añade (Desde la interfaz de GitHub) “Hondarribia” al fihcero ciudades.txt y haz el
