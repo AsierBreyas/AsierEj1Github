@@ -20,17 +20,22 @@ es el primer ejercicio de práctica de este repositorio
 correctamente.
     -git push
 9. Añade “Renteria” al fichero de ciudades.txt
+    - git echo >> Renteria
 10. Haz un commit con este cambio.
+    - git commit -m "Renteria añadido"
 11. Añade (Desde la interfaz de GitHub) “Hondarribia” al fihcero ciudades.txt y haz el
 commit correspondiente
 12. Piensa qué habría que hacer ahora para poder juntar los cambios que tenemos en
 nuestro git local y el proyecto que tenemos en GitHub.
+    - Git Pull
 13. Realiza los cambios necesarios para poder arreglar esto y tener ambos cambios en el
 .git local y el GitHub
 14. Añade otro fichero ciudadesCanada.txt que incluya “Ottawa”, “Vancouver” y
 “Toronto”.
+    - echo Ottawa Vancouver Toronto > cuidadesCanada.txt
 15. Haz un nuevo commit con estos cambios con el mensaje “Nuevo fichero ciudades
 Alemania”.
+    git commit -m "Nuevo fichero ciudades Alemania”
 16. Cambia el nombre al último commit y añádele el mensaje “Nuevo fichero ciudades
 alemania”.
 17. Sube los cambios realizados hasta ahora a GitHub .
