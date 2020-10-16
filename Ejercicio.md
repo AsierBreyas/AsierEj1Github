@@ -38,6 +38,7 @@ Alemania”.
     git commit -m "Nuevo fichero ciudades Alemania”
 16. Cambia el nombre al último commit y añádele el mensaje “Nuevo fichero ciudades
 alemania”.
+    - git commit --amend -m "cuidades alemania"
 17. Sube los cambios realizados hasta ahora a GitHub .
 18. Añade las ciudad “Calgary” a ciudadesCanada.txt y haz commit.
 19. Añade la ciudad “Montreal” a ciudadesCanada.txt y haz commit.
